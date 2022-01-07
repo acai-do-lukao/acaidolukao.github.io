@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    background-color: rgb(101, 54, 146);
+}
+
+#capa{
+    background: url(img/acai.jpg);
+    background-size: 140px;
+    height: 1010px;;
+    padding: 100px 400px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover/*cobrir todo o espaço do bloco*/
+    
+}
+#mo{
+    max-width: 300px;
+    margin-top: 50px;
+    float: left;
+}
+#m2{  
+    margin-top: 50px;
+    max-width: 300px;
+    float: right;
+
+}
+#moran{
+    margin-top: 50px;
+    max-width: 300px;
+
+}
+#m3{
+    width: 50px;
+    height: 50px;
+}
+#m4{
+    width: 70px;
+    height: 50px;
+}
+#p1{
+
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: white;
+    text-align: center;
+    font-size: 40px;
+    
+
+}
+#car{
+    font-family: fantasy;
+    font-size: 50px;
+}
+#p2{
+    padding-top: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 500px;
+
+}
+#b1{
+    background-color: blueviolet;
+    font-size: 40px;
+}
